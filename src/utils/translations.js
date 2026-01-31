@@ -1,0 +1,146 @@
+export const translations = {
+    ar: {
+        "home": "الرئيسية",
+        "about": "عن الشركة",
+        "projects": "المشاريع",
+        "location": "الموقع",
+        "contact": "اتصل بنا",
+        "language-btn": "اللغة",
+        "lang-ar": "عربي",
+        "lang-en": "إنجليزي",
+
+        "hero-title": "مرحباً بكم في شركة ناصر حجاج للمقاولات العامة",
+        "hero-subtitle": "نبني المستقبل بتميز وابتكار",
+        "cta-button": "استكشف مشاريعنا",
+
+        "about-title": "من نحن",
+        "about-p1": "تأسست شركة ناصر حجاج للمقاولات العامة عام 1996، وأصبحت رائدة في مجال المقاولات في محافظة الشرقية، مصر.",
+        "about-p2": "تتخصص شركتنا في خدمات البناء الشاملة وإدارة المشاريع والتوريدات.",
+        "about-p3": "من مقرنا الرئيسي في الشرقية، أنجزنا العديد من المشاريع بنجاح.",
+        "experience": "27+ سنة خبرة",
+        "projects-completed": "500+ مشروع منجز",
+        "team": "فريق محترف",
+        "quality": "جودة مضمونة",
+        "established": "تأسست عام 1996",
+
+        "projects-title": "مشاريعنا المميزة",
+        "projects-subtitle": "اكتشف أحدث وأبرز مشاريعنا المبتكرة",
+        "view-details": "عرض التفاصيل",
+
+        "confirm-view-details": "عرض التفاصيل",
+        "project-overview": "نبذة عن المشروع",
+        "project-steps": "مراحل تنفيذ المشروع",
+
+        "location-title": "موقعنا",
+        "location-subtitle": "تجدنا في الزقازيق، محافظة الشرقية",
+
+        "contact-title": "اتصل بنا",
+        "contact-subtitle": "مهتم بمشاريعنا أو تريد مناقشة مشروع محتمل؟ تواصل مع فريقنا.",
+        "phone": "الهاتف",
+        "email": "البريد الإلكتروني",
+        "working-hours": "ساعات العمل",
+        "working-hours-value": "الأحد - الخميس: 9:00 صباحاً - 5:00 مساءً",
+        "your-name": "الاسم",
+        "your-email": "البريد الإلكتروني",
+        "your-phone": "رقم الهاتف",
+        "your-message": "رسالتك",
+        "send-message": "إرسال الرسالة",
+
+        "quick-links": "روابط سريعة",
+        "follow-us": "تابعنا",
+        "footer-tagline": "نبني التميز منذ عام 1996",
+        "rights": "جميع الحقوق محفوظة",
+        "developed-by": "تم التطوير بواسطة",
+        "logo-text": "ناصر حجاج",
+
+        "gallery-title": "معرض الأعمال",
+        "gallery-subtitle": "استكشف مجموعة متنوعة من مشاريعنا الإنشائية",
+        "gallery1-title": "مبنى تجاري",
+        "gallery2-title": "مجمع سكني",
+        "gallery3-title": "مركز تسوق",
+        "gallery4-title": "منشأة طبية",
+        "gallery": "معرض الأعمال",
+
+        "partners-title": "شركاؤنا",
+        "partners-subtitle": "الشركات الموثوقة التي نتعاون معها",
+        "whatsapp": "واتساب",
+
+        "company-name": "ناصر حجاج",
+        "company-rights": "جميع الحقوق محفوظة لناصر حجاج للمقاولات العامة.",
+        "developer-name": "زكريا",
+        "logo-text": "ناصر حجاج",
+
+        "hayah-karima-title": "حياة كريمة",
+        "hayah-karima-subtitle": "مبادرة رئاسية لحياة أفضل",
+        "hayah-karima-description": "وتوجهات من السيد الرئيس عبدالفتاح السيسي للعمل في مشاريع حياة كريمة لتوفير حياة أفضل للأسر والقرى المصرية والعمل على إعادة إعمار وبناء مصر وانتشالها من العشوائيات والفقر إلى تكريم حياتهم وازدهارهم",
+        "project1-title": "محطة مياه العصايد\nAl-Asayed Water Station",
+        "project1-desc": "تجديد وتطوير محطة مياه العصايد\nRenovation and Development of Al-Asayed Water Station"
+    },
+    en: {
+        "home": "Home",
+        "about": "About",
+        "projects": "Projects",
+        "location": "Location",
+        "contact": "Contact",
+        "language-btn": "Language",
+        "lang-ar": "Arabic",
+        "lang-en": "English",
+
+        "hero-title": "Welcome to Nasser Haggag General Contracting",
+        "hero-subtitle": "Building the future with excellence and innovation",
+        "cta-button": "Explore Our Projects",
+
+        "about-title": "About Us",
+        "about-subtitle": "Over 25 Years of Experience in Contracting",
+        "about-text": "We are a leading general contracting company, providing integrated services in construction. We adhere to the highest standards of quality and safety in all our projects.",
+        "about-p1": "Founded in 1996, Nasser Haggag General Contracting has established itself as a leading construction company in Sharqia Governorate, Egypt.",
+        "about-p2": "Our company specializes in comprehensive construction services, project management, and supplies.",
+        "about-p3": "From our headquarters in Sharqia, we've successfully completed numerous projects that stand as testimonials to our commitment to excellence.",
+        "experience": "27+ Years Experience",
+        "projects-completed": "500+ Completed Projects",
+        "team": "Professional Team",
+        "quality": "Quality Guaranteed",
+        "established": "Established Since 1996",
+
+        "projects-title": "Our Projects",
+        "projects-subtitle": "We take pride in delivering the best projects",
+        "view-details": "View Details",
+
+        "view-details": "View Details",
+        "project-overview": "Project Overview",
+        "project-steps": "Project Steps",
+
+        "gallery-title": "Our Gallery",
+        "gallery-subtitle": "Explore our diverse portfolio of construction projects",
+        "gallery": "Gallery",
+
+        "location-title": "Our Location",
+        "location-subtitle": "Find us in Zagazig, Sharqia Governorate",
+
+        "contact-title": "Contact Us",
+        "contact-subtitle": "We'd love to hear from you",
+        "your-name": "Your Name",
+        "your-email": "Your Email",
+        "your-phone": "Your Phone",
+        "your-message": "Your Message",
+        "send-message": "Send Message",
+
+        "quick-links": "Quick Links",
+        "follow-us": "Follow Us",
+        "footer-tagline": "Building Excellence Since 1996",
+        "company-rights": "All Rights Reserved to Nasser Haggag General Contracting.",
+        "developed-by": "Developed by",
+        "developer-name": "Zakaria",
+        "logo-text": "Nasser Haggag",
+
+        "partners-title": "Our Partners",
+        "partners-subtitle": "Trusted companies we work with",
+        "whatsapp": "WhatsApp",
+
+        "hayah-karima-title": "Hayah Karima",
+        "hayah-karima-subtitle": "Presidential Initiative for Better Life",
+        "hayah-karima-description": "Under the directives of President Abdel Fattah El-Sisi, we are working on Hayah Karima (Decent Life) projects to provide a better life for Egyptian families and villages. Our mission is to rebuild and reconstruct Egypt, transforming it from informal settlements and poverty to a life of dignity and prosperity.",
+        "project1-title": "Al-Asayed Water Station\nمحطة مياه العصايد",
+        "project1-desc": "Renovation and Development of Al-Asayed Water Station\nتجديد وتطوير محطة مياه العصايد"
+    }
+};
