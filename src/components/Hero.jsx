@@ -5,7 +5,7 @@ const Hero = () => {
     const { t } = useLanguage();
 
     return (
-        <section id="home" className="hero h-screen flex flex-col justify-center items-center text-center text-white relative bg-cover bg-center bg-fixed bg-no-repeat px-4" style={{ backgroundImage: "linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('/assets/tower.jpg')" }}>
+        <section id="home" className="hero-bg h-screen flex flex-col justify-center items-center text-center text-white relative bg-cover bg-center bg-fixed bg-no-repeat px-4">
             <div className="max-w-4xl mx-auto animate-fade-in-up">
                 <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-10 drop-shadow-xl leading-tight opacity-0 animate-slide-up-fade" style={{ animationDelay: '0.2s', animationFillMode: 'forwards' }}>
                     {t("hero-title")}
