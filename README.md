@@ -1,60 +1,57 @@
-# Nasser Haggag General Contracting | شركة ناصر حجاج للمقاولات العامة
+# Nasser Haggag General Contracting
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success)
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Vite](https://img.shields.io/badge/Vite-4-purple)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38bdf8)
 
-مرحباً بكم في المستودع الرسمي لموقع **شركة ناصر حجاج للمقاولات العامة**. هذا المشروع عبارة عن موقع تعريفي حديث ومتجاوب يعرض خدمات الشركة، مشاريعها، وإنجازاتها في مجال المقاولات والإنشاءات.
-
 Welcome to the official repository for **Nasser Haggag General Contracting**. This project is a modern, responsive corporate website showcasing the company's services, projects, and achievements in the contracting and construction industry.
 
 ---
 
-## 📖 Table of Contents | جدول المحتويات
-- [About the Project | عن المشروع](#-about-the-project--عن-المشروع)
-- [Features | المميزات](#-features--المميزات)
-- [Tech Stack | التقنيات المستخدمة](#-tech-stack--التقنيات-المستخدمة)
-- [Getting Started | بدء الاستخدام](#-getting-started--بدء-الاستخدام)
-- [Project Structure | هيكل المشروع](#-project-structure--هيكل-المشروع)
-- [Contact | تواصل معنا](#-contact--تواصل-معنا)
+## 📖 Table of Contents
+- [About the Project](#-about-the-project)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Getting Started](#-getting-started)
+- [Project Structure](#-project-structure)
+- [Contact](#-contact)
 
 ---
 
-## 🏢 About the Project | عن المشروع
+## 🏢 About the Project
 
 **Nasser Haggag General Contracting** has been a leader in the construction field in Sharqia, Egypt, since 1996. The website reflects the company's commitment to excellence, showcasing over 25 years of experience and 500+ completed projects.
 
-**شركة ناصر حجاج للمقاولات العامة** هي شركة رائدة في مجال الإنشاءات في محافظة الشرقية، مصر، منذ عام 1996. يعكس الموقع التزام الشركة بالتميز، مستعرضاً أكثر من 25 عاماً من الخبرة وأكثر من 500 مشروع ناجح.
+The platform provides potential clients and partners with a detailed look at the company's portfolio, history, and capabilities.
 
 ---
 
-## ✨ Features | المميزات
+## ✨ Features
 
-*   **🌐 Bilingual Support / دعم ثنائي اللغة**:
+*   **🌐 Bilingual Support**:
     *   Full support for Arabic (RTL) and English (LTR).
-    *   دعم كامل للغتين العربية (من اليمين لليسار) والإنجليزية.
+    *   Easy language switching mechanism.
     
-*   **📱 Fully Responsive / تصميم متجاوب**:
+*   **📱 Fully Responsive**:
     *   Optimized for Desktops, Tablets, and Mobile phones.
-    *   متوافق تماماً مع جميع الأجهزة (كمبيوتر، تابلت، هواتف).
+    *   Adaptive layouts for seamless user experience across devices.
 
-*   **🎨 Modern UI/UX / واجهة مستخدم عصرية**:
+*   **🎨 Modern UI/UX**:
     *   Smooth animations using Framer Motion.
-    *   Clean and professional design tailored for the construction industry.
-    *   تصميم احترافي وجذاب مع تأثيرات حركية سلسة.
+    *   Clean, professional, and sophisticated design tailored for the construction industry.
 
-*   **🏗️ Key Sections / الأقسام الرئيسية**:
+*   **🏗️ Key Sections**:
     *   **Hero Section**: High-impact introduction.
-    *   **About Us**: Company history & vision.
-    *   **Projects**: Showcase of featured works.
+    *   **About Us**: Company history, vision, and stats.
+    *   **Projects**: Showcase of featured works with details.
     *   **Hayah Karima**: Special section for national initiatives.
     *   **Gallery**: Image portfolio.
     *   **Contact**: Integrated contact form and location map.
 
 ---
 
-## 🛠 Tech Stack | التقنيات المستخدمة
+## 🛠 Tech Stack
 
 This project is built with modern web technologies to ensure performance and scalability.
 
@@ -67,39 +64,38 @@ This project is built with modern web technologies to ensure performance and sca
 
 ---
 
-## 🚀 Getting Started | بدء الاستخدام
+## 🚀 Getting Started
 
 Follow these instructions to set up the project locally.
-اتبع هذه الخطوات لتشغيل المشروع على جهازك المحلي.
 
-### Prerequisites | المتطلبات
+### Prerequisites
 *   Node.js (v14 or higher)
 *   npm or yarn
 
-### Installation | التثبيت
+### Installation
 
-1.  **Clone the repository / انسخ المستودع**
+1.  **Clone the repository**
     ```bash
     git clone https://github.com/yourusername/yousef-egg.git
     cd yousef-egg
     ```
 
-2.  **Install dependencies / ثبّت المكتبات**
+2.  **Install dependencies**
     ```bash
     npm install
     ```
 
-3.  **Run the development server / شغل السيرفر المحلي**
+3.  **Run the development server**
     ```bash
     npm run dev
     ```
 
-4.  **Open in Browser / افتح في المتصفح**
+4.  **Open in Browser**
     Visit `http://localhost:5173` to view the app.
 
 ---
 
-## 📂 Project Structure | هيكل المشروع
+## 📂 Project Structure
 
 ```plaintext
 yousef-egg/
@@ -121,10 +117,9 @@ yousef-egg/
 
 ---
 
-## 📞 Contact | تواصل معنا
+## 📞 Contact
 
 For inquiries, please contact:
-للاستفسارات، يرجى التواصل عبر:
 
 *   **Phone**: +20 114 917 1109
 *   **WhatsApp**: +20 106 001 1509
