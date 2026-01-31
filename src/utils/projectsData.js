@@ -101,7 +101,7 @@ export const projectsData = [
             }
         ],
         gallery: [
-            "/assets/projects/project1/p1.jpg", "/assets/projects/project1/p2.jpg", "/assets/projects/project1/p3.jpg",
+            "/assets/projects/project1/p2.jpg", "/assets/projects/project1/p3.jpg",
             "/assets/projects/project1/p4.jpg", "/assets/projects/project1/p5.jpg", "/assets/projects/project1/p6.jpg",
             "/assets/projects/project1/p7.jpg", "/assets/projects/project1/p8.jpg"
         ]
