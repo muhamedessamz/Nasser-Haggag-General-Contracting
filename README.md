@@ -15,7 +15,7 @@ Welcome to the official repository for **Nasser Haggag General Contracting**. Th
 - [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
 - [Project Structure](#-project-structure)
-- [Contact](#-contact)
+
 
 ---
 
@@ -117,16 +117,7 @@ yousef-egg/
 
 ---
 
-## 📞 Contact
 
-For inquiries, please contact:
-
-*   **Phone**: +20 114 917 1109
-*   **WhatsApp**: +20 106 001 1509
-*   **Email**: nasserhaggag65@gmail.com
-*   **Location**: Zagazig, Sharqia Governorate, Egypt
-
----
 
 <p align="center">
   Developed by <strong>Zakaria</strong>
